@@ -30,9 +30,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid rgba(231, 233, 252, 1);
   width: 1140px;
-  height: 72px;
 }
 
 .header {
@@ -226,8 +224,7 @@ a{
     grid-template-columns: repeat(3, 1fr);
     justify-content: center;
     gap: 24px;
-    margin-bottom: 40px;
-    padding: 120px 120px;
+    padding: 0 156px;
     
 }
 
